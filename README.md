@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a data scientist in the making ✨
+I am a data scientist/machine learning engineer in the making ✨
 
-⚡ Fun fact: Besides technology, I am keen on cars, sports, coffee and petting dogs.
+⚡ Fun fact: Besides technology, I am keen on sports, cars, finance, coffee and getting melted by the cuteness of pets.
 
 <!--
 **aal-v-ess/aal-v-ess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
